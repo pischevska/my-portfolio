@@ -1,10 +1,25 @@
 body{
-    background-color: aquamarine;
+    background-color: black;
 }
-h1{
-    font-family: 'Abyssinica SIL';
-}
-.hero{
-    background-color: aqua;
-    text-align: center;
-}
+.containerArt {
+    color:white;
+    padding: 80px;
+   }
+   .btn {
+    font-size: 30px;
+    }
+    .containerRenaissance{
+        color:white;
+    padding: 80px;
+    }
+    .containerBaroque{
+        color:white;
+        padding: 80px;
+     }
+     .email-link{
+        color: white;
+        text-align: center;
+     }
+     h2{
+        font-size: 20px;
+     }
